@@ -1,0 +1,24 @@
+Repositório: 
+https://github.com/fernandoleonid/Computational-Logical-using-Python-2023
+  
+Exercícios Unidade 02
+
+1. Escreva um programa que solicite um número ao usuário e verifique se ele é par ou ímpar.
+
+2. Faça um programa que solicite dois números ao usuário e exiba o maior deles.
+
+3. Crie um programa que solicite um número ao usuário e determine se ele é positivo, negativo ou zero.
+
+4. Escreva um programa que solicite um número ao usuário e determine se ele é divisível por 5.
+
+5. Faça um programa que solicite um número ao usuário e exiba a tabuada desse número de 1 a 10.
+
+6. Crie um programa que solicite um número ao usuário e calcule o fatorial desse número.
+
+7. Crie um programa que solicite as notas e a frequência de um aluno, e determine sua situação. Se a média for maior ou igual a 5 e a frequência for maior ou igual a 75%, o aluno está aprovado. Se a média for menor que 5 e a frequência for menor que 75%, o aluno está reprovado. Em qualquer outro caso, o aluno está de recuperação.
+
+8. Crie um programa que solicite ao usuário o início, o fim e o número para a tabuada. Em seguida, exiba a tabuada desse número no intervalo determinado.
+
+9. Crie um programa que solicite três medidas de retas ao usuário e determine se essas medidas podem formar um triângulo.
+
+10. Crie um programa que exiba um menu com 5 opções para o usuário. A última opção deve ser "0" para sair do programa. Cada opção do menu deve exibir informações relevantes, sem interação do usuário.

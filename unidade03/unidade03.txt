@@ -1,3 +1,8 @@
+Repositório: 
+https://github.com/fernandoleonid/Computational-Logical-using-Python-2023
+  
+Exercícios Unidade 03
+
 1. Crie um programa que solicite ao usuário uma lista de números inteiros e retorne a soma de todos os elementos da lista.
 
 2. Escreva um programa que crie uma tupla com os meses do ano. Em seguida, peça ao usuário para digitar um número de 1 a 12 e retorne o mês correspondente.

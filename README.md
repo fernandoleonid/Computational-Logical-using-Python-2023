@@ -67,3 +67,16 @@ Cada exercício está descrito abaixo, com o enunciado e a proposta de solução
   10. Crie um programa que exiba um menu com 5 opções para o usuário. A última opção deve ser "0" para sair do programa. Cada opção do menu deve exibir informações relevantes, sem interação do usuário.
 
 </details>
+
+<details>
+  <summary>Exercícios Unidade 03</summary>
+  
+    1. Crie um programa que solicite ao usuário uma lista de números inteiros e retorne a soma de todos os elementos da lista.
+    
+    2. Escreva um programa que crie uma tupla com os meses do ano. Em seguida, peça ao usuário para digitar um número de 1 a 12 e retorne o mês correspondente.
+    
+    3. Crie um programa que solicite ao usuário duas listas de números inteiros e crie dois sets com essas listas. Em seguida, determine e exiba os números que estão presentes nos dois sets (interseção).
+    
+    4. Escreva um programa que crie um dicionário com o nome e a idade de três pessoas. Em seguida, solicite ao usuário um nome e exiba a idade correspondente.
+
+</details>

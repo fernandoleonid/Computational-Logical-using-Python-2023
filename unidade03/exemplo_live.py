@@ -6,6 +6,7 @@ while resposta == 's':
     nome_digitado = input("Digite seu nome: ")
     estado_digitado = input("Digite seu estado: ")
 
+
     cliente = {
         "nome": nome_digitado,
         "estado": estado_digitado
